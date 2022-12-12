@@ -1,0 +1,29 @@
+{
+  "slabs": [
+    {
+      "from": 250000,
+      "to": 50000,
+      "taxPercentage": 0.5
+    },
+    {
+      "from": 500000,
+      "to": 750000,
+      "taxPercentage": 0.10
+    },
+    {
+      "from": 750000,
+      "to": 1000000,
+      "taxPercentage": 0.15
+    },
+    {
+      "from": 1000000,
+      "to": 1250000,
+      "taxPercentage": 0.20
+    },
+    {
+      "from": 1250000,
+      "to": 1500000,
+      "taxPercentage": 0.25
+    }
+  ]
+}
